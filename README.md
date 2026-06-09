@@ -4,6 +4,13 @@ Sistema desktop desenvolvido em C# com .NET 8 e Windows Forms para monitoramento
 
 O projeto foi construído para atender ao tema da Global Solution, conectando tecnologia, dados climáticos e prevenção de desastres naturais.
 
+## Integrantes
+
+- Guilherme Santos Nunes – RM558989
+- Kaique Rodrigues Zaffarani – RM556677
+- Kairo da Silva Silvestre de Carvalho – RM558288
+- Pedro Josué Pereira Almeida – RM554913
+
 ## Sumário
 
 - [Objetivo da solução](#objetivo-da-solução)
